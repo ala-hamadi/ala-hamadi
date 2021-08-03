@@ -5,6 +5,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ala-hamadi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ala-hamadi/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F48024?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15112688/ala-hamadi)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:ala.hamadi.01@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/HamadiAla)
 [![CodeForces](https://img.shields.io/badge/-CodeForces-bc2125?style=flat&labelColor=bc2125&logo=codeforces&logoColor=white)](https://codeforces.com/profile/KaisSaied)
