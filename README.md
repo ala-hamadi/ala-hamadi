@@ -24,7 +24,7 @@ Hi there, I'm Ala 😉, a Full Stack Developer 🚀 from Tunisia 🇹🇳, curre
 
 - 👨🏻‍💻 I’m currently working on something cool.
 
-- 🎓 Studying Computer Science at **Higher Institute of Computer Science (ISI)**.
+- 🎓 Studying Computer Science at **Private Higher School of Engineering and Technology (ESPRIT)**.
 
 - 💬 Ask me about anything, I would like to answer (After googling it 😜).
 
