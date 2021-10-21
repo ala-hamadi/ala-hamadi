@@ -14,6 +14,7 @@
 <!-- [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)]()
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?style=flat&labelColor=4267B2&logo=facebook&logoColor=white)]() -->
+  <!-- - 🌱 I’m currently learning **Django**.-->
 
 </div>
 <br />
@@ -23,15 +24,13 @@ Hi there, I'm Ala 😉, a Full Stack Developer 🚀 from Tunisia 🇹🇳, curre
 
 - 👨🏻‍💻 I’m currently working on something cool.
 
-- 🌱 I’m currently learning **Django**.
-
 - 🎓 Studying Computer Science at **Higher Institute of Computer Science (ISI)**.
 
 - 💬 Ask me about anything, I would like to answer (After googling it 😜).
 
 - 📫 You can reach me with the links above ☝️.
 
-- 📄 See my [Curriculum Vitae](https://drive.google.com/file/d/1Ds71MVlc5eG4EAEVflsDcXqa3pXzO3zW/view).
+- 📄 See my [Curriculum Vitae](https://drive.google.com/file/d/1XOiRMBVJk-K_twmm2blYGLTosRYx8Y8Z/view?usp=sharing).
 
 <br />
 
