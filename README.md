@@ -30,7 +30,7 @@ Hi there, I'm Ala 😉, a Full Stack Developer 🚀 from Tunisia 🇹🇳, curre
 
 - 📫 You can reach me with the links above ☝️.
 
-- 📄 See my [Curriculum Vitae](https://drive.google.com/file/d/1XOiRMBVJk-K_twmm2blYGLTosRYx8Y8Z/view?usp=sharing).
+- 📄 See my [Curriculum Vitae](https://drive.google.com/file/d/1dWb6MoYZUnglSaVOqs_dkYKWoWJOhCJi/view?usp=share_link).
 
 <br />
 
