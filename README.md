@@ -20,7 +20,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
-Hi there, I'm Ala 😉, a Full Stack Developer 🚀 from Tunisia 🇹🇳, currently, I'm a Student [@ESPRIT](https://esprit.tn/). Passionate about Web & Mobile Development and Solving Problems.
+Hi there, I'm Ala 😉, a Full Stack Developer 🚀 from Tunisia 🇹🇳, currently, I'm a Student [@ESPRIT](https://esprit.tn/). Passionate about Web  Development & Solving Problems.
 
 - 👨🏻‍💻 I’m currently working on something cool.
 
