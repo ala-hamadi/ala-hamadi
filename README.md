@@ -20,17 +20,17 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
-Hi there, I'm Ala 😉, a Full Stack Developer 🚀 from Tunisia 🇹🇳, currently, I'm a Student [@ESPRIT](https://esprit.tn/). Passionate about Web  Development & Solving Problems.
+Hi there, I'm Ala 😉, a freshly minted software engineer and full stack developer 🚀 from Tunisia 🇹🇳.
 
 - 👨🏻‍💻 I’m currently working on something cool.
 
-- 🎓 Studying Computer Science at **Private Higher School of Engineering and Technology (ESPRIT)**.
+- 🎓 Graduated from  <a href="https://esprit.tn/" target="_blank">**Private Higher School of Engineering and Technology (ESPRIT)**</a>.
 
 - 💬 Ask me about anything, I would like to answer (After googling it 😜).
 
 - 📫 You can reach me with the links above ☝️.
 
-- 📄 See my [Curriculum Vitae](https://drive.google.com/file/d/1NAyFhrmWzKC45xDUhMC4bjI2185k0fDi/view).
+- 📄 See my [Curriculum Vitae](https://drive.google.com/file/d/1yGkdtcxpF3SrAbcem3DoZ57DehBHAKTU/view?usp=sharing).
 
 <br />
 
